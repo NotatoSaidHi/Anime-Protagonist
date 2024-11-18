@@ -1,0 +1,62 @@
+"subclass": [
+"json": "JaekDiplomacyBard"
+    {
+        "name": "Anime Protagonist",
+        "source": "Notato",
+        "className": "Fighter",
+        "classSource": "PHB",
+        "shortName": "Protagonist",
+        "subclassFeatures": [
+            "Kudaranai tsuyo-sa no kuso yarō o taiken suru junbi o shi nasai|Fighter||Protagonist|Notato|3",
+				"Season 2|Fighter||Protagonist|Notato|7",
+				"Season 3|Fighter||Protagonist|Notato|10"
+				"Season 4|Fighter||Protagonist|Notato|15"
+				"Season 5|Fighter||Protagonist|Notato|18"
+        ]
+    }
+],
+"subclassFeature": [
+    {
+        "name": "All of them because im bad at coding",
+        "source": "Notato",
+        "className": "Fighter",
+        "classSource": "PHB",
+        "subclassShortName": "Protagonist",
+        "subclassSource": "Notato",
+        "level": 3,
+        "entries": [Kudaranai tsuyo-sa no kuso yarō o taiken suru junbi o shi nasai.
+You gain improved stats that match your extent to which you have trained for no apparent reason. 
+ANIME PROTAGONIST STAT INCREASE
+AC is improved by 1
+Walk speed is improved by 10ft
+damage rolls increase by 1
+Every time you gain another subclass feature, you can add the stat bonuses again.
+RANDOM ASS ABILITY
+you can add your proficiency bonus a second time to attack rolls, almost as if you had expertise on attack rolls. the amount of times you can do this is equal to your PB.
+Season 2 (lvl 5)
+You gain the stat bonuses again, along with a new unneeded ability
+ 
+Stupid Monologue
+You can begin to monologue about how you have been holding back and just gained an advantage, but in some really bullshit way. 
+once per long rest, you monologue. until the end of your turn, when rolling for damage, any roll below half the die's max is treated as half the die's max, and you gain a +2 on all attack rolls. at the start of your next turn, you realise how fucking stupid you just sounded and are embarassed. roll a performance check (DC17) to see if you managed to recover socially from the monologue. you cant take any type of actions for this turn if you fail, and only lose reactions and bonus actions on a success. 
+Season 3 (lvl 10)
+We are back for more stupid abilities and random power boosts. but by stupid abilities what i meant was something uninteresting.
+once again, increase the stat bonus you got from lvl 3 (but your speed stays the same)
+Random ass ability:
+You can gain advantage on a single attack roll. You can use this a number of times equal to your PB. regain all uses after a long rest.
+Season 4 (lvl 15)
+you do not gain a stat bonus from your lvl 3 feature.
+Once per long rest, you can roll double the dice on one attack. You can expend all your uses of second wind (min 1) to do the same thing but with disadvantage once per long rest. This disadvantage overrides any and all advantages you can apply here.
+Season 5 (lvl 18)
+You do not gain a stat bonus from your lvl 3 feature.
+you have such a large and weird fanbase you got R34'd
+You gain Expertise in persuasion. This is because of how many people simp for you.
+also your dick is now 2 inches longer. (always looking out for the boys)
+Another Ability:
+Nuh uh, i totally hit you
+2 times per long rest, if you miss an attack, you can choose to hit instead. (cant use this on double damage dice attacks that have disadvantage)
+
+            ""
+        ]
+    }
+]
